@@ -34,7 +34,7 @@ docker-compose --version
 ### 2. 克隆项目
 
 ```bash
-git clone https://github.com/Wcowin/OneClip-License-Manager.git
+git clone https://github.com/One-Clip/OneClip-License-Manager.git
 cd OneClip-License-Manager
 ```
 
@@ -447,5 +447,5 @@ docker exec -i license-manager-mysql mysql -uroot -p$DB_ROOT_PASSWORD license_db
 ## 支持
 
 - 文档：[docs/](./docs/)
-- 问题反馈：[GitHub Issues](https://github.com/Wcowin/OneClip-License-Manager/issues)
+- 问题反馈：[GitHub Issues](https://github.com/One-Clip/OneClip-License-Manager/issues)
 - 邮件支持：support@license-manager.com

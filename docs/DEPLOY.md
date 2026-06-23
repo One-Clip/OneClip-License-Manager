@@ -22,7 +22,7 @@
 
 ```bash
 # 1. 克隆项目
-git clone https://github.com/Wcowin/OneClip-License-Manager.git
+git clone https://github.com/One-Clip/OneClip-License-Manager.git
 cd OneClip-License-Manager
 
 # 2. 运行一键部署脚本
@@ -49,7 +49,7 @@ chmod +x deploy.sh
 
 ```bash
 # 1. 克隆项目
-git clone https://github.com/Wcowin/OneClip-License-Manager.git
+git clone https://github.com/One-Clip/OneClip-License-Manager.git
 cd OneClip-License-Manager
 
 # 2. 配置环境变量

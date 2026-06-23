@@ -4,7 +4,7 @@
 
 注意！主要是提供了一个思路，具体部署之类可以甩给AI，它参考这套模版可以给你分分钟搞定
 
-目前已经用于[OneClip](https://github.com/Wcowin/OneClip)许可证的分发
+目前已经用于[OneClip](https://github.com/One-Clip/OneClip)许可证的分发
 
 ## 功能特性
 
@@ -25,7 +25,7 @@
 
 ```bash
 # 克隆项目
-git clone https://github.com/Wcowin/OneClip-License-Manager.git
+git clone https://github.com/One-Clip/OneClip-License-Manager.git
 cd OneClip-License-Manager
 
 # 运行一键部署脚本
@@ -43,7 +43,7 @@ chmod +x deploy.sh
 
 ```bash
 # 克隆项目
-git clone https://github.com/Wcowin/OneClip-License-Manager.git
+git clone https://github.com/One-Clip/OneClip-License-Manager.git
 cd OneClip-License-Manager
 
 # 配置环境变量
